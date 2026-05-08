@@ -1,4 +1,4 @@
-# iran-latest.osm.pbf - Download Failed
+# iran-latest.osm
 
 ---
 
@@ -6,29 +6,30 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `iran-latest.osm.pbf` |
-| **URL** | https://ftp5.gwdg.de/pub/misc/openstreetmap/export.geofabrik.de/asia/iran-latest.osm.pbf |
-| **Date** | 2026-05-08 20:43:01 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `iran-latest.osm.pbf` |
+| **Total Size** | **5 parts** - **215.99 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `iran-latest.osm.z01` | [Download](https://github.com/pyTechLife/downloader/raw/main/downloads/iran-latest.osm/iran-latest.osm.z01) |
+| 2 | `iran-latest.osm.z02` | [Download](https://github.com/pyTechLife/downloader/raw/main/downloads/iran-latest.osm/iran-latest.osm.z02) |
+| 3 | `iran-latest.osm.z03` | [Download](https://github.com/pyTechLife/downloader/raw/main/downloads/iran-latest.osm/iran-latest.osm.z03) |
+| 4 | `iran-latest.osm.z04` | [Download](https://github.com/pyTechLife/downloader/raw/main/downloads/iran-latest.osm/iran-latest.osm.z04) |
+| 5 | `iran-latest.osm.zip` | [Download](https://github.com/pyTechLife/downloader/raw/main/downloads/iran-latest.osm/iran-latest.osm.zip) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `iran-latest.osm.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
 
 ---
 
