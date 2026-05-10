@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `iran-latest.osm.pbf` |
-| **Total Size** | **5 parts** - **215.99 MB** |
+| **Total Size** | **5 parts** - **216.00 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
